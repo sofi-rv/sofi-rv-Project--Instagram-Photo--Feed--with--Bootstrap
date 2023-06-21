@@ -1,3 +1,17 @@
-.icon-instagram{
-    
+.Log-out{
+    color: red;
 }
+.post-width{
+    width: 500px !important;
+}
+img{
+    width: 500px !important;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #0d6efd !important;
+    background-color: unset !important;
+}
+.nav-pills .nav-link {
+    background: unset!important;
+    color: #696969!important;
+} 
