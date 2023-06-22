@@ -26,5 +26,6 @@ img{
     font-size: small !important;
 }
 .grid-width{
-    width: 100% !important;
+    width: 100%!important;
+    height: 400px !important;
 }
