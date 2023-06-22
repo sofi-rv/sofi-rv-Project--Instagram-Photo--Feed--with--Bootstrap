@@ -1,6 +1,14 @@
 .log-out{
     color: red;
 }
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #0d6efd !important;
+    background-color: unset !important;
+}
+.nav-pills .nav-link {
+    background: unset!important;
+    color: #696969!important;
+} 
 .post-width{
     width: 500px !important;
 }
@@ -17,11 +25,6 @@ img{
     padding-top: 5px !important;
     font-size: small !important;
 }
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-    color: #0d6efd !important;
-    background-color: unset !important;
+.grid-width{
+    width: 100% !important;
 }
-.nav-pills .nav-link {
-    background: unset!important;
-    color: #696969!important;
-} 
